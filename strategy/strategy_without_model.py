@@ -338,7 +338,7 @@ if __name__ == '__main__':
 
     # ===== Load with backtesting data ===== #
     log_and_print('Start to load test data')
-    TXF_test = load_and_check('./TXFR1_1min_backtesting.csv', start_date = datetime.date(2022, 1, 1), end_date = datetime.date(2024, 8, 16))
+    TXF_test = load_and_check('../TXFR1_1min_backtesting.csv', start_date = datetime.date(2022, 1, 1), end_date = datetime.date(2024, 8, 16))
     log_and_print(f'Succeed to load test data, the length of test data is {len(TXF_test)}')
     log_and_print('=' * 50)
     # ======================================== #
