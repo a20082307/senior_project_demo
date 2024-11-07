@@ -1,5 +1,7 @@
 # senior_project_demo
 
+<BR>
+
 ## 簡介
 $\quad$本專題主要分析在相同的量化交易策略下，透過加入Transformer-based模型預測作為進
 出場條件對策略的影響。 
