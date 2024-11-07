@@ -1,4 +1,4 @@
-# senior_project_demo
+# 專題：Transforming the Futures: Using Transformer-Based Models in Trading
 
 <BR>
 
@@ -23,6 +23,8 @@ $\quad$建立了一個共同的交易策略後，透過三人訓練出的三個�
 $\quad$有鑑於此，我們認為加入模型預測作為交易策略中進出場條件的一部份會犧牲一定的品
 質，而且其整體績效與品質會和模型的好壞掛勾，但是只要策略與模型搭配得當，兩者的結
 合是可以創造更高的報酬的。
+
+<BR>
 
 ## DEMO
 1. 將這個repo clone到本地
